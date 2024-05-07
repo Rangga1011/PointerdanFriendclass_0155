@@ -17,6 +17,9 @@ int main() {
     refMhs.nim = 2;           // member acces operator
     mhs.showNim();
 
-   
+    mahasiswa* pMhs = &mhs;  // pointer deference pMhs
+    pMhs->nim = 3;           // arrow operator
+    pMhs->showNim();
+    return 0;
 }
 
