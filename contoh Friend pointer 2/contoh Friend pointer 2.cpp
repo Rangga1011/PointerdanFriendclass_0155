@@ -5,7 +5,7 @@ class pelajar;
 class manusia
 {
 public:
-    void showNilaiPelajar(pelajar& a);
+    void showNilaiPelajar(pelajar& x);
 };
 
 class pelajar
@@ -20,31 +20,16 @@ public:
 
 void manusia::showNilaiPelajar(pelajar& x)
 {
-    cout << x, nilai;
+    cout << x.nilai;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 int main()
 {
+    manusia budi;
+    pelajar pbudi;
+    budi.showNilaiPelajar(pbudi);
+    return 0;
+
     
 }
 
