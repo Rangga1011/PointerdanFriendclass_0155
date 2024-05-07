@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer 2", "Pointer 2\Poin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer 3", "Pointer 3\Pointer 3.vcxproj", "{D43C65B6-6CDF-44D5-B86B-4FACAF2C9FFE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "contoh Frend function", "contoh Frend function\contoh Frend function.vcxproj", "{17CFF995-1852-403C-8862-D11E5174ACD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{D43C65B6-6CDF-44D5-B86B-4FACAF2C9FFE}.Release|x64.Build.0 = Release|x64
 		{D43C65B6-6CDF-44D5-B86B-4FACAF2C9FFE}.Release|x86.ActiveCfg = Release|Win32
 		{D43C65B6-6CDF-44D5-B86B-4FACAF2C9FFE}.Release|x86.Build.0 = Release|Win32
+		{17CFF995-1852-403C-8862-D11E5174ACD4}.Debug|x64.ActiveCfg = Debug|x64
+		{17CFF995-1852-403C-8862-D11E5174ACD4}.Debug|x64.Build.0 = Debug|x64
+		{17CFF995-1852-403C-8862-D11E5174ACD4}.Debug|x86.ActiveCfg = Debug|Win32
+		{17CFF995-1852-403C-8862-D11E5174ACD4}.Debug|x86.Build.0 = Debug|Win32
+		{17CFF995-1852-403C-8862-D11E5174ACD4}.Release|x64.ActiveCfg = Release|x64
+		{17CFF995-1852-403C-8862-D11E5174ACD4}.Release|x64.Build.0 = Release|x64
+		{17CFF995-1852-403C-8862-D11E5174ACD4}.Release|x86.ActiveCfg = Release|Win32
+		{17CFF995-1852-403C-8862-D11E5174ACD4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
