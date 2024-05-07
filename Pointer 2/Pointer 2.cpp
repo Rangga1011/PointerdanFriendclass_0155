@@ -11,28 +11,9 @@ public:
     }
 };
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 int main()
 {
-    
+    mahasiswa* mhs = new mahasiswa{ 1 };
+
 }
 
